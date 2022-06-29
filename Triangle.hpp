@@ -1,0 +1,11 @@
+//
+// Created by duke on 2022/6/29.
+//
+
+#ifndef MINI3DRENDER_TRIANGLE_H
+#define MINI3DRENDER_TRIANGLE_H
+
+#endif //MINI3DRENDER_TRIANGLE_H
+
+
+
