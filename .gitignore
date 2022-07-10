@@ -1,4 +1,5 @@
 **/target/
+**/cmake-build-debug/
 **/.classpath
 **/.launch
 **/.project

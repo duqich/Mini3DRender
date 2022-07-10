@@ -1,0 +1,3 @@
+[submodule "dqcg"]
+	path = dqcg
+	url = git@github.com:duqich/dqcg.git
